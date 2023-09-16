@@ -4,7 +4,7 @@ import openai
 from moviepy.editor import AudioFileClip
 from gtts import gTTS
 
-openai.api_key = "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"
+openai.api_key = "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"
 TELEGRAM_API_TOKEN = "6505242412:AAGbV9jEQuDWom491Oryp4-2ubv9Cn_vB9A"
 
 
